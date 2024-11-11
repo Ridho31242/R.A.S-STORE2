@@ -232,6 +232,7 @@ function updateProductList() {
       if (!nav_link[1].classList.contains('active')) {
         nav_link[1].classList.add('active');
         nav_link[0].classList.remove('active');
+        nav_link[2].classList.remove('active');
         updateProductList();
       }
     });
