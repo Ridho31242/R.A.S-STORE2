@@ -3452,7 +3452,7 @@
                   "packages": [
                     {
                       "jumlah": "1 Bulan",
-                      "harga": "25.000"
+                      "harga": "35.000"
                     }
                   ]
                 },
@@ -3461,7 +3461,7 @@
                   "packages": [
                     {
                       "jumlah": "1 Bulan",
-                      "harga": "35.000"
+                      "harga": "55.000"
                     }
                   ]
                 },
@@ -3470,7 +3470,7 @@
                   "packages": [
                     {
                       "jumlah": "1 Bulan",
-                      "harga": "40.000"
+                      "harga": "60.000"
                     },
                     {
                       "jumlah": "3 Bulan",
@@ -3565,7 +3565,7 @@
                     },
                     {
                       "jumlah": "2 Bulan",
-                      "harga": "25.000"
+                      "harga": "35.000"
                     }
                   ]
                 },
@@ -3601,7 +3601,7 @@
                   "packages": [
                     {
                       "jumlah": "1 Bulan",
-                      "harga": "15.000"
+                      "harga": "20.000"
                     },
                     {
                       "jumlah": "3 Bulan",
@@ -3637,15 +3637,15 @@
                   "packages": [
                     {
                       "jumlah": "1 Bulan",
-                      "harga": "15.000"
-                    },
-                    {
-                      "jumlah": "3 Bulan",
                       "harga": "35.000"
                     },
                     {
-                      "jumlah": "1 Tahun",
+                      "jumlah": "3 Bulan",
                       "harga": "45.000"
+                    },
+                    {
+                      "jumlah": "1 Tahun",
+                      "harga": "55.000"
                     }
                   ]
                 },
@@ -3654,7 +3654,7 @@
                   "packages": [
                     {
                       "jumlah": "1 Tahun",
-                      "harga": "55.000"
+                      "harga": "65.000"
                     }
                   ]
                 }
@@ -3758,7 +3758,7 @@
                   "packages": [
                     {
                       "jumlah": "1 Bulan 2U",
-                      "harga": "25.000"
+                      "harga": "35.000"
                     }
                   ]
                 },
@@ -3767,7 +3767,7 @@
                   "packages": [
                     {
                       "jumlah": "1 Bulan",
-                      "harga": "45.000"
+                      "harga": "55.000"
                     }
                   ]
                 },
@@ -3875,7 +3875,7 @@
                   "packages": [
                     {
                       "jumlah": "1 Bulan",
-                      "harga": "25.000"
+                      "harga": "35.000"
                     }
                   ]
                 },
@@ -3884,7 +3884,7 @@
                   "packages": [
                     {
                       "jumlah": "1 Bulan",
-                      "harga": "65.000"
+                      "harga": "75.000"
                     }
                   ]
                 }
@@ -3959,11 +3959,11 @@
             {
               "options": [
                 {
-                  "type": "FAMPLAN",
+                  "type": "GIFTCARD",
                   "packages": [
                     {
                       "jumlah": "1 Bulan",
-                      "harga": "20.000"
+                      "harga": "25.000"
                     },
                     {
                       "jumlah": "4 Bulan",
@@ -3972,7 +3972,7 @@
                   ]
                 },
                 {
-                  "type": "INDPLAN",
+                  "type": "VIA IMESSAGE",
                   "packages": [
                     {
                       "jumlah": "1 Bulan",
@@ -4035,11 +4035,11 @@
                   "packages": [
                     {
                       "jumlah": "1 Bulan",
-                      "harga": "15.000"
+                      "harga": "25.000"
                     },
                     {
                       "jumlah": "1 Tahun",
-                      "harga": "35.000"
+                      "harga": "45.000"
                     }
                   ]
                 },
